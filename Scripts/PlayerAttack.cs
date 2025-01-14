@@ -26,7 +26,7 @@ public class PlayerAttack : MonoBehaviour
 
     // Reset timer variables
     private Coroutine resetToIdleCoroutine;
-    private float resetDelay = 2f; // Time to reset to idle after attack
+    private float resetDelay = 0.7f; // Time to reset to idle after attack
 
     void Start()
     {
