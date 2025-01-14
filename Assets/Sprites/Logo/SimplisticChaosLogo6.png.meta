@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: e57765e43cf99264981f8c71422e25f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3095581497687611004
+    second: SimplisticChaosLogo6_0
+  - first:
+      213: -7020890478493099843
+    second: SimplisticChaosLogo6_1
+  - first:
+      213: 4011592756597401994
+    second: SimplisticChaosLogo6_2
+  - first:
+      213: 4396137767580896391
+    second: SimplisticChaosLogo6_3
+  - first:
+      213: -5478172092029524658
+    second: SimplisticChaosLogo6_4
+  - first:
+      213: 4643535440110126047
+    second: SimplisticChaosLogo6_5
+  - first:
+      213: -7372611242624450203
+    second: SimplisticChaosLogo6_6
+  - first:
+      213: 8399333549968577262
+    second: SimplisticChaosLogo6_7
+  - first:
+      213: 3240870124074605766
+    second: SimplisticChaosLogo6_8
+  - first:
+      213: -9147528078330981321
+    second: SimplisticChaosLogo6_9
+  - first:
+      213: 54378816082693391
+    second: SimplisticChaosLogo6_10
+  - first:
+      213: -617377802525814878
+    second: SimplisticChaosLogo6_11
+  - first:
+      213: 6447332374939423625
+    second: SimplisticChaosLogo6_12
+  - first:
+      213: 512719016689661512
+    second: SimplisticChaosLogo6_13
+  - first:
+      213: 8274749703722375078
+    second: SimplisticChaosLogo6_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 8
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ee0967094a05d0800000000000000
+      internalID: -3095581497687611004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db81f7ede49c09e90800000000000000
+      internalID: -7020890478493099843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89a4889b5a0ca730800000000000000
+      internalID: 4011592756597401994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c86540208320d30800000000000000
+      internalID: 4396137767580896391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 46
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e452f14c18f99f3b0800000000000000
+      internalID: -5478172092029524658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 47
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd383b951e6217040800000000000000
+      internalID: 4643535440110126047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 43
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5618158f2293fa990800000000000000
+      internalID: -7372611242624450203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 43
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d5e3bc5d609470800000000000000
+      internalID: 8399333549968577262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 46
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc94acf432e9fc20800000000000000
+      internalID: 3240870124074605766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 43
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349b2eada37d0180800000000000000
+      internalID: -9147528078330981321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 10
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d4aefbe3131c000800000000000000
+      internalID: 54378816082693391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afcc3cd822ae67f0800000000000000
+      internalID: -617377802525814878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 13
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983d325b2a6897950800000000000000
+      internalID: 6447332374939423625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846ff5baa3b8d1700800000000000000
+      internalID: 512719016689661512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimplisticChaosLogo6_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 12
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a714a79301d5d270800000000000000
+      internalID: 8274749703722375078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf43c5bbdf011d9439c1b76bbb5e9435
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SimplisticChaosLogo6_0: -3095581497687611004
+      SimplisticChaosLogo6_1: -7020890478493099843
+      SimplisticChaosLogo6_10: 54378816082693391
+      SimplisticChaosLogo6_11: -617377802525814878
+      SimplisticChaosLogo6_12: 6447332374939423625
+      SimplisticChaosLogo6_13: 512719016689661512
+      SimplisticChaosLogo6_14: 8274749703722375078
+      SimplisticChaosLogo6_2: 4011592756597401994
+      SimplisticChaosLogo6_3: 4396137767580896391
+      SimplisticChaosLogo6_4: -5478172092029524658
+      SimplisticChaosLogo6_5: 4643535440110126047
+      SimplisticChaosLogo6_6: -7372611242624450203
+      SimplisticChaosLogo6_7: 8399333549968577262
+      SimplisticChaosLogo6_8: 3240870124074605766
+      SimplisticChaosLogo6_9: -9147528078330981321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
